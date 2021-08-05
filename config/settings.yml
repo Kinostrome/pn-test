@@ -1,0 +1,3 @@
+plugins:
+  expo_push_enabled:
+    default: false
